@@ -21,5 +21,3 @@ The e-learning portal is built using the following technologies:
 - Supabase: An open-source alternative to Firebase that provides a PostgreSQL database, authentication, and storage services.
 - React: A popular JavaScript library for building user interfaces.
 
-https://elernink.vercel.app/
-
